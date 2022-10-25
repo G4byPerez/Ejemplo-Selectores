@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejemplo-Selectores</string>
+    <string name="holiText">Holi Crayoli c:</string>
+    <string name="EditText_Fecha">Selecciona la fecha</string>
+    <string name="EditText_Hora">Selecciona la hora</string>
+    <string name="reset">Reset</string>
+</resources>
